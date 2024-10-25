@@ -1,0 +1,15 @@
+/workspaces/CharacterCounter/CharacterCounter/bin/Debug/net8.0/CharacterCounter
+/workspaces/CharacterCounter/CharacterCounter/bin/Debug/net8.0/CharacterCounter.deps.json
+/workspaces/CharacterCounter/CharacterCounter/bin/Debug/net8.0/CharacterCounter.runtimeconfig.json
+/workspaces/CharacterCounter/CharacterCounter/bin/Debug/net8.0/CharacterCounter.dll
+/workspaces/CharacterCounter/CharacterCounter/bin/Debug/net8.0/CharacterCounter.pdb
+/workspaces/CharacterCounter/CharacterCounter/obj/Debug/net8.0/CharacterCounter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CharacterCounter/CharacterCounter/obj/Debug/net8.0/CharacterCounter.AssemblyInfoInputs.cache
+/workspaces/CharacterCounter/CharacterCounter/obj/Debug/net8.0/CharacterCounter.AssemblyInfo.cs
+/workspaces/CharacterCounter/CharacterCounter/obj/Debug/net8.0/CharacterCounter.csproj.CoreCompileInputs.cache
+/workspaces/CharacterCounter/CharacterCounter/obj/Debug/net8.0/CharacterCounter.sourcelink.json
+/workspaces/CharacterCounter/CharacterCounter/obj/Debug/net8.0/CharacterCounter.dll
+/workspaces/CharacterCounter/CharacterCounter/obj/Debug/net8.0/refint/CharacterCounter.dll
+/workspaces/CharacterCounter/CharacterCounter/obj/Debug/net8.0/CharacterCounter.pdb
+/workspaces/CharacterCounter/CharacterCounter/obj/Debug/net8.0/CharacterCounter.genruntimeconfig.cache
+/workspaces/CharacterCounter/CharacterCounter/obj/Debug/net8.0/ref/CharacterCounter.dll
